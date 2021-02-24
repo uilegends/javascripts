@@ -1,0 +1,1 @@
+There are different kind of logics with using latest javascript code.
